@@ -1,0 +1,6 @@
+{
+  "name": "SMART STUDY AI",
+  "description": "AI-powered Student Study Management & Smart Learning Platform with personalized timetables, interactive study timer, AI study assistant, and multilingual AI question paper generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
